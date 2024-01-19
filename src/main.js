@@ -1,2 +1,2 @@
-import './app/firebase.js'
+import './app/signupForm.js'
 
